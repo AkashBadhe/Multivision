@@ -5,5 +5,3 @@ angular.module('app').factory('mvBook', function($resource) {
 
     return BookResource;
 });
-
-//this is controller to access books.
