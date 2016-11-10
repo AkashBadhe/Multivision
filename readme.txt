@@ -4,3 +4,4 @@ npm install
 nodemon server.js
 you will mongo db for this // on server.
 This is mean stack application.
+added some line on server//
